@@ -30,6 +30,7 @@
 * Otherwise you can read it here: http://www.gnu.org/licenses/gpl-2.0.txt
 *
 */
+//usr/share/ossim/www/home
 require_once 'av_init.php';
 
 Session::useractive();
