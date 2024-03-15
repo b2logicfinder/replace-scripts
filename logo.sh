@@ -32,3 +32,4 @@ replace_file "https://www.networkfort.com/wp-content/uploads/2019/07/imgpsh_full
 
 # Replace the fifth file
 replace_file "https://www.networkfort.com/wp-content/uploads/2019/07/imgpsh_fullsize_anim-4.png" "/usr/share/ossim/www/pixmaps/logo/logo_siem.png"
+replace_file "https://www.networkfort.com/wp-content/uploads/2019/07/imgpsh_fullsize_anim-4.png" "/usr/share/ossim/www/pixmaps/ossim.png"
